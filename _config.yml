@@ -212,10 +212,19 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [] #[categories, tags]
-  #layouts:
-  #  category: category
+  enabled: [categories] #[categories, tags]
+  layouts:
+    category: category
   #  tag: tag
-  #permalinks:
-  #  tag: /tags/:name/
-  #  category: /categories/:name/
+  permalinks:
+    # tag: /tags/:name/
+    category: /categories/:name/
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      category: "Muay Thai"
+    posts:
+      category: "Muay Thai"
+      published: false
+      sitemap: false
