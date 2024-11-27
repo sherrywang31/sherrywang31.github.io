@@ -2,7 +2,7 @@
 layout: post
 title: 'The Endless Ascent: Committing to Muay Thai (2)'
 category: Muay Thai
-description: Limitations are part of the story, not the reason to stop.
+description: Limitations are part of the story, not reasons to stop.
 date: 2024-11-27 14:12 -0600
 ---
 Heidegger introduces the concept of **"thrownness" (Geworfenheit)** - we are cast into a world not of our own choice, molded by circumstances beyond our control: our age, physical form, family responsibilities, and the societal expectations. These inescapable conditions form the foundation of our life, a starting point we must confront rather than escape. Simply put, limitations are part of our existence. According to Heidegger, authenticity emerges not by rejecting our thrownness but by responding to it deliberately, transforming these limitations into meaningful choices. It's through navigating these constraints that we become unique and find authenticity, living in alignment with our true interests, passions, and values rather than conforming to external pressures or societal expectations.
